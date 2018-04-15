@@ -1,0 +1,16 @@
+{
+  "name": "vuepress",
+  "version": "0.0.1",
+  "description": "VuePress site",
+  "author": "trkw <naohiro.terakawa@me.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "vuepress build"
+  },
+  "devDependencies": {
+    "vuepress": "^0.3.1"
+  },
+  "dependencies": {
+    "npm": "^5.8.0"
+  }
+}
